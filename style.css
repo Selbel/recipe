@@ -14,8 +14,12 @@ header {
 }
 nav {
     width: 375px;
-    background-color: #030A8C;
-    position: absolute;
+    background-color: #ffffff;
+    position: relative;
+    padding: 10px 10%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
     top: 0;
     z-index:1;
     text-transform: uppercase;
@@ -27,7 +31,7 @@ nav h2 {
     visibility: hidden;
     height: 1px;
 }
- nav ul {
+ ul {
     margin: 0;
     padding: 0;
     list-style: none;
