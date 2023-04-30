@@ -89,7 +89,7 @@ input {
     display: none;
 }
 input:checked ~ ul {
-    max-height: 500px;
+    max-height: 50px;
 }
 input:checked ~ label span {
     background: transparent;
