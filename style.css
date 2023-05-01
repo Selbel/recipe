@@ -14,6 +14,7 @@ header {
     background: rgb(195, 88, 106);
     margin-left:0px;
     margin-right:0px;
+    padding: 0px;
 }
 nav {
     width: 375px;
@@ -128,8 +129,5 @@ input:checked ~ label span:after {
     transform: rotate(45deg);
 }
 input:checked ~ label:not(.steps) span:before, input:checked ~ label:not(.steps) span:after {
-    top: 0;
-}
-figure{
-   
+    top: 0;   
 }
