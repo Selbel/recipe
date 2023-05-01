@@ -59,8 +59,8 @@ li a {
     font-size: 30px;
     position: absolute;
     top: 0;
-    align-items: center;
-    padding: 16px 16px;
+    left: 25%;
+    padding: 16px 32px;
 }
 [href="#avatar"] {
     text-transform: capitalize;
