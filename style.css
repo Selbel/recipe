@@ -98,7 +98,7 @@ header {
     right: 0px;
     padding: 16px 16px;
 }
-.item-avatar{
+#main-nav .item-avatar{
     grid-column-start:4;
     grid-column-end:5;
 
