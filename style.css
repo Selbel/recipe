@@ -104,5 +104,5 @@ input:checked ~ label:not(.steps) span:before, input:checked ~ label:not(.steps)
     top: 0;
 }
 figcaption{
-    text-align: center;
+   
 }
