@@ -143,3 +143,8 @@ input:checked ~ label:not(.steps) span:before, input:checked ~ label:not(.steps)
 #media{
     align-content: center ;
 }
+.search{
+    position: absolute;
+    left: 40px;
+    top:40px;
+}
