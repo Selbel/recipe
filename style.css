@@ -7,8 +7,15 @@ html {
 body {
     width: 100%;
     margin: 0;
-   
     background-color: #f2f2f2;
+    display: grid;
+    grid-template-areas: 
+    "main-nav"
+    "header"
+    "details"
+    "ingredients"
+    "sides"
+    "footer"
 }
 header {
     margin-top: 0;
@@ -86,7 +93,7 @@ header {
     font-variant: small-caps;
     font-weight: bold;
     font-size: 30px;
-    position: absolute;
+    
     top: 0;
     right: 0px;
     padding: 16px 16px;
