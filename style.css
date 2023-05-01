@@ -99,7 +99,7 @@ header {
     top: 0;
     right: 0px;
     padding: 16px 16px;
-    position: relative;
+    position: absolute;
 }
 #main-nav .item-avatar{
     grid-column-start:4;
