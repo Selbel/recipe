@@ -63,7 +63,7 @@ label {
     user-select: none;
 }
 label span {
-    background-color: #ffffff;
+    background-color: green;
     display: block;
     height: 2px;
     position: relative;
