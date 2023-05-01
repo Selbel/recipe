@@ -56,6 +56,9 @@ li a {
 a:hover, input:hover {
     background-color: #590242;
 }
+input:hover {
+    background-color: yellow;
+}
 label {
     cursor: pointer;
     display: inline-block;
