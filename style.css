@@ -30,9 +30,21 @@ header {
     padding-bottom: 2px;
     display:grid;
     grid-template-columns: 20% 40% 20%;
-    grid-area: 
-    "#home""#logo""#avatar"
-    "#search""#search""#search";
+    grid-template-areas: 
+    "home""logo""avatar"
+    "search""search""search";
+}
+.home{
+    grid-area: home;
+}
+.logo{
+    grid-area: logo;
+}
+.avatar{
+    grid-area: avatar;
+}
+.search{
+    grid-area: search;
 }
 #main-nav ul {
     text-align: center;
