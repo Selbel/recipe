@@ -12,6 +12,8 @@ header {
     margin-top: 59px;
     padding-bottom: 20px;
     background: rgb(195, 88, 106);
+    margin-left:0px;
+    margin-right:0px;
 }
 nav {
     width: 375px;
@@ -129,6 +131,5 @@ input:checked ~ label:not(.steps) span:before, input:checked ~ label:not(.steps)
     top: 0;
 }
 figure{
-    width:100%;
-    align-content: center;
+   
 }
