@@ -46,7 +46,7 @@ header {
     max-height: 0;
     transition: max-height .2s ease-out;
 }
-#main-nab li a {
+#main-nav li a {
     display: block;
     padding: 20px 20px;
     text-decoration: none;
@@ -136,4 +136,7 @@ input:checked ~ label span:after {
 }
 input:checked ~ label:not(.steps) span:before, input:checked ~ label:not(.steps) span:after {
     top: 0;   
+}
+#media{
+    align-content: center ;
 }
