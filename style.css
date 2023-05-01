@@ -32,7 +32,7 @@ ul {
     padding: 0;
     list-style: none;
     overflow: hidden;
-    background-color: #2104D9;
+    background-color: #ffffff;
     max-height: 0;
     transition: max-height .2s ease-out;
 }
