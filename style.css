@@ -71,7 +71,7 @@ label span {
     width: 18px;
 }
 label span:before, label span:after {
-    background: pink
+    background: green;
     content: '';
     display: block;
     height: 100%;
