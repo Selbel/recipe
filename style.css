@@ -31,8 +31,8 @@ header {
     display:grid;
     grid-template-columns: 20% 40% 20%;
     grid-template-areas: 
-    "home""logo""avatar"
-    "search""search""search";
+    "#home""#logo""#avatar"
+    "#search""#search""#search";
 }
 #main-nav ul {
     text-align: center;
