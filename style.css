@@ -51,7 +51,16 @@ li a {
     top: 0;
     left: 0px;
     padding: 16px 16px;
-
+}
+[href="#logo"] {
+    text-transform: capitalize;
+    font-variant: small-caps;
+    font-weight: bold;
+    font-size: 30px;
+    position: absolute;
+    top: 0;
+    left: 0px;
+    padding: 16px 16px;
 }
 a:hover {
     background-color: #590242;
