@@ -34,18 +34,6 @@ header {
     "home""logo""avatar"
     "search""search""search";
 }
-.home{
-    grid-area: home;
-}
-.logo{
-    grid-area: logo;
-}
-.avatar{
-    grid-area: avatar;
-}
-.search{
-    grid-area: search;
-}
 #main-nav ul {
     text-align: center;
 }
@@ -77,6 +65,8 @@ header {
     top: 0;
     left: 0px;
     padding: 16px 16px;
+    grid-area: home;
+
 }
 [href="#logo"] {
     text-transform: capitalize;
@@ -87,6 +77,7 @@ header {
     top: 0;
     left: 25%;
     padding: 16px 32px;
+    grid-area: logo;
 }
 [href="#avatar"] {
     text-transform: capitalize;
@@ -97,6 +88,7 @@ header {
     top: 0;
     right: 0px;
     padding: 16px 16px;
+    grid-area: avatar;
 }
 a:hover {
     background-color: #590242;
@@ -160,4 +152,5 @@ input:checked ~ label:not(.steps) span:before, input:checked ~ label:not(.steps)
     position: absolute;
     left: 40px;
     top:40px;
+    grid-area: search;
 }
