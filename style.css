@@ -130,4 +130,5 @@ input:checked ~ label:not(.steps) span:before, input:checked ~ label:not(.steps)
 }
 figure{
     width:100%;
+    align-content: center;
 }
