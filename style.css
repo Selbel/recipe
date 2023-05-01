@@ -103,6 +103,3 @@ input:checked ~ label span:after {
 input:checked ~ label:not(.steps) span:before, input:checked ~ label:not(.steps) span:after {
     top: 0;
 }
-figcaption{
-   transform:scaleY(5px);
-}
