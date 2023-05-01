@@ -2,6 +2,7 @@ html {
     background-color: rgba(122, 191, 191, .5);
     margin-left:10%;
     margin-right: 10%;
+    padding-top: 10%;
 }
 body {
     width: 100%;
@@ -17,7 +18,7 @@ header {
     padding: 0px;
 }
 nav {
-    width: 375px;
+    width: 100%;
     background-color: #ffffff;
     position: absolute;
     top: 0;
