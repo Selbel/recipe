@@ -65,9 +65,10 @@ label {
     padding: 28px 20px;
     position: relative;
     user-select: none;
+    z-index: 2;
 }
 label span {
-    background-color: green;
+    background-color: transparent;
     display: block;
     height: 2px;
     position: relative;
@@ -75,7 +76,7 @@ label span {
     width: 18px;
 }
 label span:before, label span:after {
-    background: green;
+    background: transparent;
     content: '';
     display: block;
     height: 100%;
