@@ -243,8 +243,7 @@ footer div.leftCol{
         transform:scaleY(350px);
         background-color: #f2f2f282;
         width: 60%;
-        padding:25px;
-        padding-left: 20%; 
+        padding:30px;
     }
 }
 @media (min-width:1280px)
