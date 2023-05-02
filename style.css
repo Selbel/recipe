@@ -24,9 +24,14 @@ header {
     background: rgb(195, 88, 106);
     margin-left:0px;
     margin-right:0px;
-    padding-top: 20%;
-    padding-right: 0%;
-    padding-left: 0%;
+    padding-top: 5%;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: repeat(3, 1fr);
+}
+.item-search{
+    grid-column-start:2;
+    grid-column-end:5;
 }
 #main-nav {
     width: 80%;
@@ -174,9 +179,14 @@ input:checked ~ label:not(.steps) span:before, input:checked ~ label:not(.steps)
 header h1{
  text-align: center;
 }
+header{
+    display:grid;
+
+}
 #media li{
     transform: rotate(90deg);
     display:none;
-    text-align: center;
-    padding:10px ;
+}
+#media{
+    align-content: center;
 }
