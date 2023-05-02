@@ -25,7 +25,6 @@ header {
     margin-left:0px;
     margin-right:0px;
     padding-top: 5%;
-
 }
 
 #main-nav {
@@ -167,8 +166,8 @@ input:checked ~ label:not(.steps) span:before, input:checked ~ label:not(.steps)
 }
 .item-search{
     position: absolute;
-    left: 40px;
-    top:40px;
+    left: 50px;
+    top:0px;
     grid-area: search;
 }
 header h1{
