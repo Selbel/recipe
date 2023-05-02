@@ -174,3 +174,6 @@ input:checked ~ label:not(.steps) span:before, input:checked ~ label:not(.steps)
 header h1{
  text-align: center;
 }
+#media{
+    transform: rotate(45deg);
+}
