@@ -178,6 +178,7 @@ header h1{
 #media li{
     transform: rotate(-90deg);
     display:none;
+    padding: 15px;
 }
 #sides{
     background-color: #7abfbf ;
