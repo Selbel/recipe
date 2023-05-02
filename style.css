@@ -260,7 +260,7 @@ footer div.leftCol{
 .details{
     display: inline-flex;
 }
-.media{
+body .media{
     transform:rotate(-90deg);
     left:-400px;
     background-color: #ffffff;
