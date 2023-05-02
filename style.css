@@ -261,6 +261,8 @@ footer div.leftCol{
 }
 .media{
     transform:rotate(-90deg);
-    left:-425px;
+    left:-400px;
+    background-color: #ffffff;
+    top: 50px;
 }
 }
