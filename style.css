@@ -245,6 +245,8 @@ footer div.leftCol{
 #details{
     background-color: black;
     color:#7abfbf;
+}
+.details{
     display: flex;
 }
 }
