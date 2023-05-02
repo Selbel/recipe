@@ -177,7 +177,7 @@ header h1{
 }
 #media div{
     transform: rotate(-90deg);
-    display:none;
+    display:inline;
     padding: 15px;
 }
 #sides{
