@@ -69,7 +69,7 @@ header {
     top: 0;
     left: 0px;
     padding: 16px 16px;
-    background-color: hotpink;
+    background-color: #ffffff;
 }
 .item-home{
     grid-column-start:1;
@@ -84,7 +84,7 @@ header {
     top: 0;
     left: 25%;
     padding: 16px 32px;
-    background-color: lime;
+    background-color: #EB5428;
 }
 #main-nav .item-logo{
     grid-column-start:2;
@@ -95,7 +95,8 @@ header {
     font-variant: small-caps;
     font-weight: bold;
     font-size: 30px;
-    background-color: aquamarine;
+    color: #EB5428;
+    background-color: #ffffff;
     top: 0;
     right: 0px;
     padding: 16px 16px;
