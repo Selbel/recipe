@@ -261,13 +261,13 @@ footer div.leftCol{
     display: inline-flex;
 }
 body .media{
-    transform:rotate(-90deg);
-    left:-400px;
+    transform:rotate(90deg);
+    left:-645px;
     background-color: #ffffff;
-    top: 390px;
+    top: 1128px;
     border-color: #EB5428;
     padding:50px ;
     padding-right: 0px;
-    width:1699.2px;
+    width:1715.2px;
 }
 }
