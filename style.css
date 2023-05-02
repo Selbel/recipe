@@ -206,7 +206,7 @@ footer .left{
     }
     footer div.rightCol {
         float: right;
-        width: 420px;
         text-align: right;
+        transform: rotate(-90deg);
     }
 }
