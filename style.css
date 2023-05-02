@@ -227,6 +227,9 @@ footer div.leftCol{
         display:grid;
         grid-template-columns: repeat(2, 1fr);
     }
+    #details{
+        text-align: center;
+    }
 
 }
 @media (min-width:1280px)
