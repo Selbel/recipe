@@ -177,5 +177,13 @@ header h1{
 #media li{
     transform: rotate(-90deg);
     display:none;
-
+}
+@media (min-width: 768px)
+ {
+    footer .left{
+        text-align: left;
+    }
+    footer.right{
+        text-align: right;
+    }
 }
