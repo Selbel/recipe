@@ -234,6 +234,14 @@ footer div.leftCol{
         display: grid;
         grid-template-columns: repeat(2, 1fr);
     }
+    header h1{
+        text-align: left;
+    }
+    .media{
+        position: absolute;
+        top: 20px;
+        background-color: #f2f2f282;
+    }
 
 }
 @media (min-width:1280px)
