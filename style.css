@@ -152,7 +152,7 @@ input:checked ~ ul {
     max-height: 500px;
 }
 input:checked ~ label span {
-    background: blue;
+    background: #EB5428;
 }
 input:checked ~ label span:before {
     transform: rotate(-45deg);
