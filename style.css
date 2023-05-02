@@ -10,10 +10,11 @@ body {
     background-color: #f2f2f2;
     display: grid;
     grid-template-areas: 
-    "main-nav"
+    "nav"
     "header"
     "details"
     "ingredients"
+    "directions"
     "sides"
     "footer"
 }
