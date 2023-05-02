@@ -263,8 +263,9 @@ footer div.leftCol{
     transform:rotate(-90deg);
     left:-400px;
     background-color: #ffffff;
-    top: 90px;
+    top: 190px;
     border-color: #EB5428;
     padding:50px ;
+    padding-right: 10px;
 }
 }
