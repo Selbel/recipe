@@ -189,8 +189,8 @@ body h2{
 #details h2{
     text-align: center;
 }
-footer div{
-    transform: rotate(90deg);
+footer .right{
+    transform: rotate(45deg);
     display:inline-block;
 
 
