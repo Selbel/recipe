@@ -177,4 +177,6 @@ header h1{
 #media li{
     transform: rotate(90deg);
     display:none;
+    align-content: center;
+    padding:10px ;
 }
