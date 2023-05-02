@@ -192,15 +192,21 @@ body h2{
 footer div{
     transform: rotate(-90deg);
     display:inline;}
-    footer .left{
+footer .left{
 
     }
-@media screen and (min-width: 768px)
+@media (min-width: 768px)
  {
-    footer .left{
-        text-align: left;
+    header{
+        background-color: greenyellow;
     }
-    footer.right{
+    footer .left{
+        float:left;
+        width:600px;
+    }
+    footer .right{
+        float:right;
+        width: 420;
         text-align: right;
     }
 }
