@@ -236,10 +236,11 @@ footer div.leftCol{
     }
     header h1{
         text-align: left;
+        top:10px;
     }
     .media{
         position: absolute;
-        top: 90px;
+        top: 150px;
         background-color: #f2f2f282;
     }
 
