@@ -20,7 +20,7 @@ body {
     "footer"
 }
 header {
-    margin-top: 0;
+    margin-top: 5px;
     padding-bottom: 20px;
     background: #f2f2f2;
     margin-left:0px;
@@ -191,10 +191,10 @@ body h2{
 }
 footer div{
     transform: rotate(-90deg);
-    display:inline;
+    display:inline;}
+    footer .left{
 
-
-}
+    }
 @media screen and (min-width: 768px)
  {
     footer .left{
