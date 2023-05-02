@@ -180,15 +180,11 @@ header h1{
 }
 #sides{
     background-color: #7abfbf ;
-
 }
-#details{
+body h2{
     text-align: center;
 }
-#ingredients{
-    text-align: center;
-}
-#directions{
+#details h2{
     text-align: center;
 }
 @media screen and (min-width: 768px)
