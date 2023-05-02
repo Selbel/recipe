@@ -171,3 +171,6 @@ input:checked ~ label:not(.steps) span:before, input:checked ~ label:not(.steps)
     top:40px;
     grid-area: search;
 }
+header h1{
+ text-align: center;
+}
