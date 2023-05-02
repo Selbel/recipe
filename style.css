@@ -182,7 +182,7 @@ header h1{
 }
 #sides{
     background-color: #7abfbf ;
-    display: inline;
+    display: inline-block;
     
 
 }
