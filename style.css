@@ -175,7 +175,7 @@ input:checked ~ label:not(.steps) span:before, input:checked ~ label:not(.steps)
 header h1{
  text-align: center;
 }
-#media li{
+#media div{
     transform: rotate(-90deg);
     display:none;
     padding: 15px;
