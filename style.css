@@ -189,7 +189,7 @@ body h2{
 #details h2{
     text-align: center;
 }
-footer li{
+footer div{
     transform: rotate(-90deg);
     display: inline;
 
