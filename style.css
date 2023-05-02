@@ -240,7 +240,7 @@ footer div.leftCol{
     }
     .media{
         position: absolute;
-        top: 320px;
+        transform:scaleY(10px)
         background-color: #f2f2f282;
         width: 60%;
         padding-left: 20%;
