@@ -190,8 +190,8 @@ body h2{
     text-align: center;
 }
 footer .right{
-    transform: rotate(45deg);
-    display:inline-block;
+    transform: rotate(-45deg);
+    display:inline;
 
 
 }
