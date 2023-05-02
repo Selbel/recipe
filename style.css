@@ -183,11 +183,6 @@ header h1{
 #sides{
     background-color: #7abfbf ;
 }
-#sides p, #sides h4, #side h5{
-    display: inline-block;
-    
-
-}
 body h2{
     text-align: center;
 }
