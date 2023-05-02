@@ -229,7 +229,7 @@ footer div.leftCol{
     }
 
 }
-@media (min-width:1280)
+@media (min-width:1280px)
 {
     #sides{
         display:grid;
