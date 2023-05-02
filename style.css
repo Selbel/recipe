@@ -203,6 +203,7 @@ footer div.leftCol{
     top: 90%;
   left: 50%;
   transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
 }
 @media (min-width: 768px)
  {
