@@ -182,6 +182,8 @@ header h1{
 }
 #sides{
     background-color: #7abfbf ;
+    
+
 }
 body h2{
     text-align: center;
@@ -223,4 +225,14 @@ footer div.leftCol{
     nav{
         display:inline;
     }
+    #sides{
+        display:grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+    }
+}
+@media (min-width:1280)
+{
+    
+
 }
