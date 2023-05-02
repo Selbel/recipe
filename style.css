@@ -244,7 +244,7 @@ footer div.leftCol{
         background-color: #f2f2f282;
         width: 60%;
         padding:30px;
-        padding-left: 30px; 
+        padding-left: 100px; 
     }
 }
 @media (min-width:1280px)
