@@ -189,17 +189,18 @@ body h2{
 #details h2{
     text-align: center;
 }
+body h3{
+    visibility: hidden;
+}
 footer div{
     transform: rotate(-90deg);
-    display:inline;}
-footer .left{
-
+    display:inline;
     }
+footer div.rightCol{
+    text-align: center;
+}
 @media (min-width: 768px)
  {
-    header{
-        background-color: greenyellow;
-    }
     footer div.leftCol {
         float: left;
         width: 600px;
