@@ -109,10 +109,10 @@ header {
 
 }
 a:hover {
-    background-color: #590242;
+    background-color:#EB5428;
 }
 input:hover {
-    background-color: yellow;
+    background-color: #7abfbf;
 }
 label {
     cursor: pointer;
