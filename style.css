@@ -260,6 +260,6 @@ footer div.leftCol{
     display: inline-flex;
 }
 .media{
-    display:none;
+    transform:rotate(90deg);
 }
 }
