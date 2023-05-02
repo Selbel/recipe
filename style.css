@@ -192,6 +192,9 @@ body h2{
 body h3{
     visibility: hidden;
 }
+footer{
+    align-items: center;
+}
 footer div{
     transform: rotate(-90deg);
     display:inline;
