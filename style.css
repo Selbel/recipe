@@ -241,6 +241,10 @@ footer div.leftCol{
     #sides{
         display:grid;
         grid-template-columns: repeat(4, 1fr);
-
+}
+#details{
+    background-color: black;
+    color:#7abfbf;
+    display: inline-block;
 }
 }
