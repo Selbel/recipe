@@ -247,6 +247,6 @@ footer div.leftCol{
     color:#7abfbf;
 }
 .details{
-    display: flex;
+    display: inline-flex;
 }
 }
