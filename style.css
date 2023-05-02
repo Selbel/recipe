@@ -200,13 +200,13 @@ footer .left{
     header{
         background-color: greenyellow;
     }
-    footer .left{
-        float:left;
-        width:600px;
+    footer div.leftCol {
+        float: left;
+        width: 600px;
     }
-    footer .right{
-        float:right;
-        width: 420;
+    footer div.rightCol {
+        float: right;
+        width: 420px;
         text-align: right;
     }
 }
