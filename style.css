@@ -165,7 +165,7 @@ input:checked ~ label:not(.steps) span:before, input:checked ~ label:not(.steps)
 #media{
     align-content: center ;
 }
-#main-nav .search{
+.item-search{
     position: absolute;
     left: 40px;
     top:40px;
