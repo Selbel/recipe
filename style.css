@@ -226,8 +226,12 @@ footer div.leftCol{
     #sides{
         display:grid;
         grid-template-columns: repeat(2, 1fr);
-    
+        grid-template-areas: 
+        "h2""h2"
+        "sideR""side"
+        "guacomo""tort";
     }
+
 }
 @media (min-width:1280)
 {
