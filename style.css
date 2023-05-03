@@ -27,7 +27,6 @@ header {
     margin-right:0px;
     padding-top: 5%;
 }
-
 #main-nav {
     width: 80%;
     background-color: #ffffff;
@@ -106,7 +105,6 @@ header {
 #main-nav .item-avatar{
     grid-column-start:4;
     grid-column-end:5;
-
 }
 a:hover {
     background-color:#EB5428;
@@ -163,61 +161,60 @@ input:checked ~ label span:after {
 input:checked ~ label:not(.steps) span:before, input:checked ~ label:not(.steps) span:after {
     top: 0;   
 }
-#media{
+#media {
     align-content: center ;
 }
-.item-search{
+.item-search {
     position: absolute;
     left: 50px;
     top:0px;
     grid-area: search;
 }
-header h1{
+header h1 {
  text-align: center;
 }
-#media div{
+#media div {
     transform: rotate(-90deg);
     display:inline;
     padding: 15px;
 }
-.sides{
+.sides {
     background-color: #7abfbf ;
 }
-body h2{
+body h2 {
     text-align: center;
 }
-#details h2{
+#details h2 {
     text-align: center;
 }
-body h3{
+body h3  {
     visibility: hidden;
 }
 footer{
     align-items: center;
 }
-footer div{
+footer div {
     transform: rotate(-90deg);
     display:inline;
-    }
-footer div.rightCol{
+}
+footer div.rightCol {
     text-align: center;
 }
-footer div.leftCol{
+footer div.leftCol {
     top: 90%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  transform: translate(-50%, -50%);
-  position: absolute;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    position: absolute;
 }
-@media (min-width: 768px)
- {
+@media (min-width: 768px) {
     footer div.leftCol {
         float: left;
         width: 600px;
     }
     footer div.rightCol {
         float: right;
-        transform: rotate(0deg) ;
+        transform: rotate(0deg);
         display:inline;
     }
     nav{
@@ -246,27 +243,26 @@ footer div.leftCol{
         padding-left: 110px; 
     }
 }
-@media (min-width:1280px)
-{
+@media (min-width:1280px) {
     #sides{
         display:grid;
         grid-template-columns: repeat(4, 1fr);
-}
-#details{
-    background-color: black;
-    color:#7abfbf;
-}
-.details{
-    display: inline-flex;
-}
-body .media{
-    transform:rotate(90deg);
-    left:-645px;
-    background-color: #ffffff;
-    top: 1128px;
-    border-color: #EB5428;
-    padding:50px ;
-    padding-right: 0px;
-    width:1715.2px;
-}
+    }
+    #details{
+        background-color: black;
+        color:#7abfbf;
+    }
+    .details{
+        display: inline-flex;
+    }
+    body .media{
+        transform:rotate(90deg);
+        left:-645px;
+        background-color: #ffffff;
+        top: 1128px;
+        border-color: #EB5428;
+        padding:50px ;
+        padding-right: 0px;
+        width:1715.2px;
+    }
 }
